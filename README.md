@@ -8,3 +8,4 @@
 - 📫 How to reach me: [LinkedIn ](https://www.linkedin.com/in/mukesh-gaur-625186225/)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I can travel 200 km just to get some random free stuff.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukeshgaur12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
