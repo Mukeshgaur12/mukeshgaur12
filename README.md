@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 
-## I'm Mukesh Gaur ! 👋
+# I'm Mukesh Gaur ! 👋
 
 - 🔭 I’m currently working with [GSSoC ' 22](https://gssoc.girlscript.tech/project)
 - 🌱 I’m currently learning Web Developement / CP ( in cpp)
