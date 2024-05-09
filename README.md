@@ -5,13 +5,11 @@
 
 # I'm Mukesh Gaur ! 👋
 
-- 🔭 I’m currently working with [GSSoC ' 22](https://gssoc.girlscript.tech/project)
 - 🌱 I’m currently learning Web Developement / CP ( in cpp)
-- 👯 I’m looking to collaborate on  [LinkedIn ](https://www.linkedin.com/in/mukesh-gaur-625186225/) or **iammukeshgaur2004@gmail.com** or [Snippet Share](https://github.com/mukeshgaur12/Snippet-Share)
+- 👯 I’m looking to collaborate on  [LinkedIn ](https://www.linkedin.com/in/mukesh-gaur-625186225/) or **iammukeshgaur2004@gmail.com** 
 - 🤔 I’m looking for help with open source or developement.
 - 👨‍💻 All of my projects are available at [Mukeshgaur12](https://github.com/mukeshgaur12)
 - 💬 Ask me about python/c or Any tech related stuff.
-- 📫 How to reach me: [LinkedIn ](https://www.linkedin.com/in/mukesh-gaur-625186225/) , [Instagram](https://www.instagram.com/immukeshgaur/) ,  [Twitter](https://twitter.com/itsmukeshgaur) 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I can travel 200 km just to get some random free stuff.
 
@@ -36,9 +34,6 @@
 <a href="https://github.com/mukeshgaur12" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/itsmukeshgaur" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
  <a href="https://instagram.com/immukeshgaur" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -51,8 +46,6 @@
   <img src="https://contrib.rocks/image?repo=mukeshgaur12/mukeshgaur12" />
 </a>
 
-[Mukesh Gaur](https://devfolio.co/@Mukesh_Gaur).
-</div>
 
 ### Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
